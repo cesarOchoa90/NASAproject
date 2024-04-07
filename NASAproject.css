@@ -18,12 +18,11 @@
 .total-info {
     width: 100%;
     border: 1px solid red;
-    height: 500px;
-  }
-
-.total-info {
+    height: 300px;
     display: flex;
-    justify-content: center;
+    justify-content: center; 
+    background-color: rgb(210, 210, 210);
+    margin: 25px
 }
 
 .content{

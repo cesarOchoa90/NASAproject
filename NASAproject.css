@@ -6,7 +6,7 @@
     background-size: cover;
     display: flex;
     color: white;
-    border: 1px solid  blue
+    /* border: 1px solid  blue */
   }
 
 .NASAlanding > h1 {
@@ -17,18 +17,18 @@
 
 .total-info {
     width: 100%;
-    border: 1px solid red;
     height: 300px;
     display: flex;
     justify-content: center; 
     background-color: rgb(210, 210, 210);
-    margin: 25px
+    margin: 25px;
+    /* border: 1px solid red; */
 }
 
 .content{
     flex-direction: row;
     width: 33%;
-    border: 1px solid green;
+    /* border: 1px solid green; */
 }
 
   
